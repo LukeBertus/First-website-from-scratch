@@ -114,25 +114,26 @@ a {
     width: 400px;
 }
 
-.boxes {
+.border {
     width: 150px;
     height: 150px;
     border-color: #3882F6;
     border-width: 3px;
     border-style: solid;
     border-radius: 15px;
+    margin: auto;
 }
 
 .boxcontainer {
     display: flex;
     justify-content: space-evenly;
-    
 }
 
 .main2 {
     height: 350px;
     max-width: 1000px;
     margin: auto;
+
 }
 
 .main3c {
@@ -149,4 +150,11 @@ a {
     font-size: 36px;
     font-family: "Roboto";
     padding: 30px;
+}
+
+.pictext {
+    text-align: center;
+    margin: 10px 0px;
+    font-size: 16px;
+    width: 150px;
 }
