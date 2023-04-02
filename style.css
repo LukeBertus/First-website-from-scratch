@@ -40,7 +40,7 @@ a {
 .header {
     display: flex;
     align-items: center;
-    max-width: 1200px;
+    max-width: 1300px;
     margin: auto; 
 }
 
@@ -107,6 +107,11 @@ a {
     padding: 6px 26px;
 }
 
+.button1:hover {
+    background-color: white;
+    color:#3882F6;
+}
+
 .ox {
     width: auto;
     height: 300px;
@@ -114,9 +119,7 @@ a {
     margin: 80px 50px 80px 60px;
 }
 
-.main2c {
 
-}
 
 .main2 {
     height: 400px;
@@ -139,9 +142,7 @@ a {
     justify-content: space-evenly;
 }
 
-.boxes {
 
-}
 
 .border {
     width: 150px;
@@ -194,36 +195,58 @@ a {
 }
 
 .main4{
-    margin: 50px 100px;
+    margin: 80px 50px;
     background-color: #3882F6;
     display: flex;
     border-radius: 5px;
     justify-content: space-between;
     align-items: center;
-    height: 100px;
-    width: 1300px
+    height: 120px;
+    width: 1150px
 }
 
 .left4{
-    margin: 30px 60px;
+    margin-left: 50px;
 }
 
 .cta{
     color: white;
     font-weight: 700;
+    font-size: 18px;
     padding-bottom: 1px;
 }
 
 .subheading4{
     color: white;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 .button2{
-    margin: 0px 10px;
+    margin: 0px 50px;
     width: 110px;
     box-sizing: border-box;
     padding: 6px 0px;
     border: 2px white solid;
 }
 
+.button2:hover{
+    background-color: white;
+    color:#3882F6;
+}
+
+.footerc{
+    background-color: #1f2937;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer{
+    color: rgb(187, 187, 187);
+}
+    
+
+.copyright{
+    color: white;
+}
