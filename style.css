@@ -112,14 +112,12 @@ a {
     color:#3882F6;
 }
 
-.ox {
-    width: auto;
-    height: 300px;
+.farm {
+    width: 40%;
+    height: auto;
     padding: 0px 0px 0px 0px;
-    margin: 80px 50px 80px 60px;
+    margin: 80px 50px 80px 50px;
 }
-
-
 
 .main2 {
     height: 400px;
@@ -141,8 +139,6 @@ a {
     display: flex;
     justify-content: space-evenly;
 }
-
-
 
 .border {
     width: 150px;
